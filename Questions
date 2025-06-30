@@ -1,0 +1,60 @@
+# 🐍 Python Questions (First Lectures)
+
+Below are **practice questions** covering beginner-level Python concepts **without loops**, perfect for your first steps in Python.
+
+---
+
+## ✨ Questions
+
+1️⃣ **Create a variable `x` and assign the value `10` to it. Print the variable.**
+
+---
+
+2️⃣ **Create two variables, `a` and `b`, assign any numbers, and print their sum.**
+
+---
+
+3️⃣ **Ask the user to enter their name, and print "Hello, [name]!"**
+
+*Example output:*  
+
+---
+
+4️⃣ **Convert the integer `5` to a float and print the result.**
+
+---
+
+5️⃣ **Take a decimal number input from the user and convert it to an integer. Print the converted value.**
+
+---
+
+6️⃣ **Create a variable `text` with the value `"Python"` and print its length.**
+
+---
+
+7️⃣ **Concatenate two strings, `"Hello"` and `"World"`, with a space in between. Print the result.**
+
+---
+
+8️⃣ **Check if the number `15` is greater than `10` and print `True` or `False`.**
+
+---
+
+9️⃣ **Print the data type of the variable `x = 3.14`.**
+
+---
+
+🔟 **Create a complex number using `complex()` function and print it.**
+
+---
+
+✅ **Tip:** Try to solve each question in a separate `.py` file to practice creating and running scripts.
+
+---
+
+## 💡 How to Practice
+
+1. Open your terminal or IDE.
+2. Create a new `.py` file for each question (e.g., `q1.py`).
+3. Write the code to solve the question.
+4. Run your script:
